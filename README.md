@@ -1,2 +1,2 @@
 # QopenerV0.1
-the first and most primitive version.
+the first and the most primitive version.
